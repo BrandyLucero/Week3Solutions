@@ -18,6 +18,8 @@ namespace TextStatsLambda
         //create function TextStats
         static void TextStats(string input)
         {
+            input = input.ToLower();
+
             //Lambda expresstion lists out puts 
             List<string> inputList = input.Split(' ').ToList();
             //output number of characters
