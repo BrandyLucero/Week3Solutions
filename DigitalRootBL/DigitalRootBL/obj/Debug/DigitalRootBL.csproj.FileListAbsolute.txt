@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DigitalRootBL\DigitalRootBL\bin\Debug\DigitalRootBL.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DigitalRootBL\DigitalRootBL\bin\Debug\DigitalRootBL.exe
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DigitalRootBL\DigitalRootBL\bin\Debug\DigitalRootBL.pdb
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DigitalRootBL\DigitalRootBL\obj\Debug\DigitalRootBL.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DigitalRootBL\DigitalRootBL\obj\Debug\DigitalRootBL.exe
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DigitalRootBL\DigitalRootBL\obj\Debug\DigitalRootBL.pdb
