@@ -1,0 +1,5 @@
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\TextStatsLambdaBL\TextStatsLambdaBL\bin\Debug\TextStatsLambdaBL.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\TextStatsLambdaBL\TextStatsLambdaBL\bin\Debug\TextStatsLambdaBL.exe
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\TextStatsLambdaBL\TextStatsLambdaBL\bin\Debug\TextStatsLambdaBL.pdb
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\TextStatsLambdaBL\TextStatsLambdaBL\obj\Debug\TextStatsLambdaBL.exe
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\TextStatsLambdaBL\TextStatsLambdaBL\obj\Debug\TextStatsLambdaBL.pdb
