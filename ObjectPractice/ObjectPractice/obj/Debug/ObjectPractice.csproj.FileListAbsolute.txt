@@ -1,1 +1,2 @@
 C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\ObjectPractice\ObjectPractice\bin\Debug\ObjectPractice.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\ObjectPractice\ObjectPractice\obj\Debug\ObjectPractice.csprojResolveAssemblyReference.cache

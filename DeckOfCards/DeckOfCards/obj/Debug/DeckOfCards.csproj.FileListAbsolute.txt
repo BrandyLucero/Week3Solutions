@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.pdb
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.exe
+C:\Users\Technologist SP\Documents\GitHub\Week3Solutions\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.pdb
