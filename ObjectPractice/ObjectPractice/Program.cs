@@ -57,8 +57,6 @@ namespace ObjectPractice
             Console.WriteLine(string.Join("\n", ticketList.OrderBy(x => x.Priority).Select(x => x.GetTicketInfo())));
 
             
-
-
         }
     }
 }
